@@ -18,7 +18,7 @@
 #define SCREEN_HEIGHT 64
 
 #define FIREBASE_HOST "https://baocao-21d86-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "AIzaSyDCJ4Ddcn8i-KkmJE0dY-MCcAw4h69PBkA"
+#define FIREBASE_AUTH "*************************************"
 const char ssid[] = "Bao Tu Trong Trung_2.4G";
 const char pass[] = "@2022.com";
 
